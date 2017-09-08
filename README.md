@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Data
 
-Dataset can be downloaded here, or here. Total in size = 7.43G. Data was caputred 29frames/s. During training, frames are sampled 30 frames/s. Thus, 1 image ~= 1s.
+Dataset can be downloaded [here](http://www.baidu.com), or here. Total in size = 7.43G. Data was caputred 29frames/s. During training, frames are sampled 30 frames/s. Thus, 1 image ~= 1s.
 
 ### Performance
 
