@@ -23,6 +23,3 @@ Dataset can be downloaded [here](http://www.baidu.com), or here. Total in size =
 
 Demo video for navigation within campus. Demo video is made with 15fps, ~= 15x faster than the original video.
 
-### Reference
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
